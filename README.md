@@ -1,4 +1,4 @@
-# Malware analysis
+# Network security and traffic analysis
 
 ![Publish blue-net using Sphinx](https://github.com/tymyrddin/blue-net/workflows/Publish%20blue-net%20using%20Sphinx/badge.svg?branch=main)
  Deployed: https://tymyrddin.github.io/blue-net/
