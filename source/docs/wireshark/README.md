@@ -2,7 +2,7 @@
 
 ## What?
 
-Use Wireshark.
+Network sniffing and packet analysis with Wireshark.
 
 ## Why?
 

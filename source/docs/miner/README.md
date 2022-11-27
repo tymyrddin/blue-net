@@ -2,7 +2,7 @@
 
 ## What?
 
-Use NetworkMiner.
+Network forensics with NetworkMiner.
 
 ## Why?
 

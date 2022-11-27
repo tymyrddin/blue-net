@@ -2,7 +2,7 @@
 
 ## What?
 
-Use Zeek.
+Network monitoring with Zeek.
 
 ## Why?
 

@@ -2,7 +2,7 @@
 
 ## What?
 
-Use Brim.
+Threat hunting with Brim.
 
 ## Why?
 
