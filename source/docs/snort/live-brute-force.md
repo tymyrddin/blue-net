@@ -1,1 +1,0 @@
-# Live attack: Brute force

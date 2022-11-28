@@ -13,9 +13,10 @@ Spot and probe network anomalies using industry tools and techniques.
 
    docs/snort/README.md
    docs/snort/ids-rules.md
-   docs/snort/ext-rules.md
-   docs/snort/live-brute-force.md
-   docs/snort/live-reverse-shell.md
+   docs/snort/ms17-010.md
+   docs/snort/log4j.md
+   docs/snort/brute-force.md
+   docs/snort/reverse-shell.md
 
 .. toctree::
    :maxdepth: 1
