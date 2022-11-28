@@ -58,3 +58,35 @@ Best practice is to record the traffic for offline analysis, quickly overview th
 | Cross-Platform Support      | **✅**                                                    | **✅**             |
 | Host Categorisation         | **✅**                                                    | ❌                 |
 | Ease of Management          | **✅**                                                    | **✅**             |
+
+## NetworkMiner version differences
+
+Unsurprisingly version upgrades provide stability, security fixes and features. For NetworkMiner the feature part is 
+quite tricky. Feature upgrades can represent implementing new features and updating  the existing feature 
+(optimisation, alteration or operation mode modification). You can always 
+[check the changelog](https://www.netresec.com/?page=NetworkMiner).
+
+**Since there are some significant differences between the versions, the given VM has both of the major versions (v1.6 and v2.7).**
+
+Of course, as the program version increases, it is expected to increase feature increase and scope. 
+The significant differences between versions 1.6 and 2.7:
+
+### Mac address processing
+
+NetworkMiner versions after version 2 can process MAC address specific correlation. This option can help identify if there is a MAC Address conflict. This feature is not available before version 2.
+
+### Sent/received packet processing
+
+NetworkMiner versions up to version 1.6. can handle packets in much detail. These options can help investigate the sent/received packets in a more detailed format. This feature is not available after version 1.6.
+
+### Frame processing
+
+NetworkMiner versions up to version 1.6. can handle frames. This option provides the number of frames and essential details about the frames. This feature is not available after version 1.6.
+
+### Parameter processing
+
+NetworkMiner versions after version 2 can handle parameters in a much more extensive form. Therefor version 1.6.xx catches fewer parameters than version 2.
+
+### Clear-text processing
+
+NetworkMiner versions up to version 1.6. can handle clear-text data. This option provides all extracted clear-text data in a single tab; it is beneficial to investigate clear-text data about the traffic data. However, it is impossible to match the clear-text data and packets. This feature is not available after version 1.6.
