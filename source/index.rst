@@ -24,6 +24,7 @@ Spot and probe network anomalies using industry tools and techniques.
    :caption: NetworkMiner
 
    docs/miner/README.md
+   docs/miner/forensics.md
 
 .. toctree::
    :maxdepth: 1
