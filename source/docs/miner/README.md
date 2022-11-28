@@ -1,3 +1,7 @@
+| ![NetworkMiner](../../_static/images/networkminer-room-banner.png)
+|:--:|
+| THM Room: [NetworkMiner](https://tryhackme.com/room/networkminer) |
+
 # Introduction
 
 ## What?

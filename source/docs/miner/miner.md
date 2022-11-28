@@ -66,8 +66,6 @@ quite tricky. Feature upgrades can represent implementing new features and updat
 (optimisation, alteration or operation mode modification). You can always 
 [check the changelog](https://www.netresec.com/?page=NetworkMiner).
 
-**Since there are some significant differences between the versions, the given VM has both of the major versions (v1.6 and v2.7).**
-
 Of course, as the program version increases, it is expected to increase feature increase and scope. 
 The significant differences between versions 1.6 and 2.7:
 
@@ -90,3 +88,5 @@ NetworkMiner versions after version 2 can handle parameters in a much more exten
 ### Clear-text processing
 
 NetworkMiner versions up to version 1.6. can handle clear-text data. This option provides all extracted clear-text data in a single tab; it is beneficial to investigate clear-text data about the traffic data. However, it is impossible to match the clear-text data and packets. This feature is not available after version 1.6.
+
+**Since there are some significant differences between the versions, the given VM has both of the major versions (v1.6 and v2.7).**

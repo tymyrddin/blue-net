@@ -33,6 +33,9 @@ Spot and probe network anomalies using industry tools and techniques.
    :caption: Zeek
 
    docs/zeek/README.md
+   docs/zeek/monitoring.md
+   docs/zeek/zeek.md
+   docs/zeek/signatures.md
 
 .. toctree::
    :maxdepth: 1
