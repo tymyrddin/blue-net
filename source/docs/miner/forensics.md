@@ -90,7 +90,7 @@ Traffic investigation actions fall under Network forensics "Traffic Analysis" su
 | **Credential grabbing**        | It can extract credentials from the parsed pcap file.                                                                                                                             |
 | **Clear text keyword parsing** | It can extract clear-text keywords and strings from the parsed pcap file.                                                                                                         |
 
-**We are using NetworkMiner free edition in this room, but a Professional  edition has much more features. You can see the differences between free and professional versions** [**here**](https://www.netresec.com/?page=NetworkMiner)**.**
+**A Professional edition has much more features. You can see the differences between free and professional versions** [**here**](https://www.netresec.com/?page=NetworkMiner)**.**
 
 ## Operating modes
 
