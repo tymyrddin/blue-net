@@ -22,6 +22,12 @@ Network monitoring and threat detection.
 * [Frameworks](frameworks.md)
 * [Packages](packages.md)
 
+Case practice:
+
+* [Anomalous DNS](dns.md)
+* [Phishing](phishing.md)
+* [Log4J](log4j.md)
+
 
 
 

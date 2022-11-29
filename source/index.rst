@@ -40,6 +40,9 @@ Spot and probe network anomalies using industry tools and techniques.
    docs/zeek/and.md
    docs/zeek/frameworks.md
    docs/zeek/packages.md
+   docs/zeek/dns.md
+   docs/zeek/phishing.md
+   docs/zeek/log4j.md
 
 .. toctree::
    :maxdepth: 1
