@@ -50,6 +50,10 @@ Spot and probe network anomalies using industry tools and techniques.
    :caption: Brim
 
    docs/brim/README.md
+   docs/brim/brim.md
+   docs/brim/use-cases.md
+   docs/brim/malware.md
+   docs/brim/mining.md
 
 .. toctree::
    :maxdepth: 1
