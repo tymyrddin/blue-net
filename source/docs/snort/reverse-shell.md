@@ -1,4 +1,4 @@
-# Live attack: Reverse shell
+# Reverse shell
 
 You: J.A.V.A. can you do a quick scan for me? We haven't investigated the outbound traffic yet.
 

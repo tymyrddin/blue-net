@@ -1,4 +1,4 @@
-# IDS rules: Log4j
+# Log4j
 
 ```text
 ubuntu@ip-10-10-234-43:~/Desktop/Exercise-Files/TASK-8 (Log4j)$ sudo snort -c local.rules -dev -l . -r log4j.pcap

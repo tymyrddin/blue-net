@@ -17,7 +17,7 @@ Intrusion detection and prevention with Snort.
 ## How?
 
 * [Writing IDS rules](ids-rules.md)
-* [IDS rules: MS17-010](ms17-010.md)
-* [IDS rules: Log4j](log4j.md)
-* [Live attack: Brute force](brute-force.md)
-* [Live attack: Reverse shell](reverse-shell.md)
+* [MS17-010](ms17-010.md)
+* [Log4j](log4j.md)
+* [Brute force](brute-force.md)
+* [Reverse shell](reverse-shell.md)

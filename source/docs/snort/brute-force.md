@@ -1,4 +1,4 @@
-# Live attack: Brute force
+# Brute force
 
 THE NARRATOR: J&Y Enterprise is one of the top coffee retails in the world. They are known as tech-coffee shops 
 and serve millions of coffee lover tech geeks and IT specialists every day.
