@@ -17,6 +17,10 @@ Network monitoring and threat detection.
 * [Network security monitoring](monitoring.md)
 * [Zeek in a nutshell](zeek.md)
 * [Signatures](signatures.md)
+* [Scripts](scripts.md)
+* [Scripts and signatures](and.md)
+* [Frameworks](frameworks.md)
+* [Packages](packages.md)
 
 
 

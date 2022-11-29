@@ -80,12 +80,10 @@ Investigate the `conn.log`.
 
     cat conn.log | zeek-cut id.orig_p id.resp_h id.resp_p proto service orig_pkts orig_ip_bytes resp_pkts
     38704	44.228.249.3	80	tcp	-	4	216	2
-    38706	44.228.249.3	80	tcp	http	11	1815	9
+    38706	44.228.249.3	80	tcp	http	11	1815	9  <= Total 20
     38708	44.228.249.3	80	tcp	-	4	216	2
     38710	44.228.249.3	80	tcp	-	4	216	2
     38712	44.228.249.3	80	tcp	http	6	1272	5
-
-Total: `20`
 
 ### FTP
 
