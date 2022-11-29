@@ -1,3 +1,7 @@
+| ![Brim](../../_static/images/brim-room-banner.png)
+|:--:|
+| THM Room: [Brim](https://tryhackme.com/room/brim) |
+
 # Introduction
 
 ## What?
