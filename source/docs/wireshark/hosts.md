@@ -6,9 +6,9 @@ Usually, enterprise networks use a predefined pattern to name users and hosts. W
 
 Protocols that can be used in Host and User identification:
 
-* Dynamic Host Configuration Protocol (DHCP) traffic
-* NetBIOS (NBNS) traffic
-* Kerberos traffic
+* Dynamic Host Configuration Protocol (DHCP) traffic, for managing automatic IP address and required communication parameters assignment.
+* NetBIOS (NBNS) traffic, for allowing applications on different hosts to communicate with each other.
+* Kerberos traffic, for authenticating service requests between two or more computers over the untrusted network. The ultimate aim is to prove identity securely.
 
 ## Questions
 
@@ -16,13 +16,33 @@ Use the `Desktop/exercise-pcaps/dhcp-netbios-kerberos/dhcp-netbios.pcap` file.
 
 **What is the MAC address of the host `Galaxy A30`?**
 
+| ![MAC address](../../_static/images/shark-10.png)
+|:--:|
+| `9a:81:41:cb:96:6c` |
+
 **How many NetBIOS registration requests does the `LIVALJM` workstation have?**
 
+| ![NetBIOS registration requests](../../_static/images/shark-11.png)
+|:--:|
+| `16` |
+
 **Which host requested the IP address `172.16.13.85`?**
+
+| ![Host request](../../_static/images/shark-12.png)
+|:--:|
+| `Galaxy-A12` |
 
 Use the `Desktop/exercise-pcaps/dhcp-netbios-kerberos/kerberos.pcap` file.
 
 **What is the IP address of the user `u5`? (Enter the address in defanged format.)**
 
+| ![u5](../../_static/images/shark-13.png)
+|:--:|
+| `10[.]1[.]12[.]2` |
+
 **What is the hostname of the available host in the Kerberos packets?**
+
+| ![Hostname](../../_static/images/shark-14.png)
+|:--:|
+| `xp1$` |
 
