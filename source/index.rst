@@ -61,6 +61,14 @@ Spot and probe network anomalies using industry tools and techniques.
    :caption: Wireshark
 
    docs/wireshark/README.md
+   docs/wireshark/nmap.md
+   docs/wireshark/on-path.md
+   docs/wireshark/hosts.md
+   docs/wireshark/tunnels.md
+   docs/wireshark/clear-text.md
+   docs/wireshark/encrypted.md
+   docs/wireshark/creds.md
+   docs/wireshark/results.md
 
 .. toctree::
    :caption: Links
