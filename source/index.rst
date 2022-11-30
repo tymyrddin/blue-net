@@ -1,9 +1,6 @@
 Network security and traffic analysis
 =================================================================
 
-.. image:: _static/images/in-progress.png
-  :alt: In progress
-
 Spot and probe network anomalies using industry tools and techniques.
 
 .. toctree::
@@ -68,7 +65,7 @@ Spot and probe network anomalies using industry tools and techniques.
    docs/wireshark/clear-text.md
    docs/wireshark/encrypted.md
    docs/wireshark/creds.md
-   docs/wireshark/results.md
+   docs/wireshark/rules.md
 
 .. toctree::
    :caption: Links

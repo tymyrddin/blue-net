@@ -23,7 +23,7 @@ Network sniffing and packet analysis with Wireshark.
 * [Clear-text protocol analysis](clear-text.md)
 * [Encrypted protocol analysis](encrypted.md)
 * [Hunt clear-text credentials](creds.md)
-* [Actionable results](results.md)
+* [Firewall rules](rules.md)
 
 
 
