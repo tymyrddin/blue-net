@@ -24,10 +24,30 @@ Use the `Desktop/exercise-pcaps/arp/Exercise.pcapng` file.
 
 **What is the number of ARP requests crafted by the attacker?**
 
+| ![Number of crafted ARP requests](../../_static/images/shark-5.png)
+|:--:|
+| `284` |
+
 **What is the number of HTTP packets received by the attacker?**
+
+| ![Number of HTTP packets](../../_static/images/shark-6.png)
+|:--:|
+| `90` |
 
 **What is the number of sniffed username&password entries?**
 
+| ![Number of sniffed credentials](../../_static/images/shark-7.png)
+|:--:|
+| `6` |
+
 **What is the password of the `Client986`?**
 
+| ![Client354 password](../../_static/images/shark-8.png)
+|:--:|
+| `clientnothere!` |
+
 **What is the comment provided by the `Client354`?**
+
+| ![Client354 comment](../../_static/images/shark-9.png)
+|:--:|
+| `Nice work!` |

@@ -1,4 +1,4 @@
-| ![Snort](../../_static/images/wireshark-room-banner.png)
+| ![Wireshark](../../_static/images/wireshark-room-banner.png)
 |:--:|
 | THM Room: [Wireshark: Traffic Analysis](https://tryhackme.com/room/wiresharktrafficanalysis) |
 
