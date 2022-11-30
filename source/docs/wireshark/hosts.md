@@ -46,3 +46,4 @@ Use the `Desktop/exercise-pcaps/dhcp-netbios-kerberos/kerberos.pcap` file.
 |:--:|
 | `xp1$` |
 
+.

@@ -44,11 +44,27 @@ Use the `Desktop/exercise-pcaps/ftp/ftp.pcap` file.
 
 **How many incorrect login attempts are there?**
 
+| ![Failed logins](../../_static/images/shark-17.png)
+|:--:|
+| `737` |
+
 **What is the size of the file accessed by the `ftp` account?**
+
+| ![39424](../../_static/images/shark-18.png)
+|:--:|
+| `39424` |
 
 **The adversary uploaded a document to the FTP server. What is the filename?**
 
+| ![resume.doc](../../_static/images/shark-19.png)
+|:--:|
+| `resume.doc` |
+
 **The adversary tried to assign special flags to change the executing permissions of the uploaded file. What is the command used by the adversary?**
+
+| ![chmod](../../_static/images/shark-20.png)
+|:--:|
+| `chmod 777` |
 
 Use the `Desktop/exercise-pcaps/http/user-agent.cap` file.
 
