@@ -38,5 +38,5 @@ Edit -> Preferences -> Protocols -> TLS -> Browse for `(Pre)-Master-Secret log f
 
 **Investigate the decrypted packets and find the flag! What is the flag?**
 
-File -> Export Objects -> HTTP -> Save txt file to Desktop -> Open file.
+**`File -> Export Objects -> HTTP -> Save txt file to Desktop -> Open file.`**
 

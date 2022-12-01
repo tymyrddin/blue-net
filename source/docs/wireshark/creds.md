@@ -21,5 +21,14 @@ Use the `Desktop/exercise-pcaps/bonus/Bonus-exercise.pcap` file.
 
 **What is the packet number of the credentials using `HTTP Basic Auth`?**
 
+| ![HTTP Basic Auth](../../_static/images/shark-29.png)
+|:--:|
+| `237` |
+
 **What is the packet number where `empty password` was submitted?**
 
+| ![empty password](../../_static/images/shark-30.png)
+|:--:|
+| `170` |
+
+.
