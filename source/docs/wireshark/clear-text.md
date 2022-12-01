@@ -70,10 +70,33 @@ Use the `Desktop/exercise-pcaps/http/user-agent.cap` file.
 
 **Investigate the user agents. What is the number of anomalous `user-agent` types?**
 
+| ![anomalous types](../../_static/images/shark-21.png)
+|:--:|
+| `6` |
+
 **What is the packet number with a subtle spelling difference in the user agent field?**
+
+| ![packet 52](../../_static/images/shark-22.png)
+|:--:|
+| `52` |
 
 Use the `Desktop/exercise-pcaps/http/http.pcapng` file.
 
 **Locate the `Log4j` attack starting phase. What is the packet number?**
 
+| ![packet 444](../../_static/images/shark-23.png)
+|:--:|
+| `444` |
+
 **Locate the `Log4j` attack starting phase and decode the base64 command. What is the IP address contacted by the adversary? (Enter the address in defanged format and exclude `{}`.)**
+
+| ![64base encoded](../../_static/images/shark-25.png)
+|:--:|
+| `Copy value.` |
+
+
+| ![IP address used](../../_static/images/shark-24.png)
+|:--:|
+| `62[.]210[.]130[.]250` |
+
+.

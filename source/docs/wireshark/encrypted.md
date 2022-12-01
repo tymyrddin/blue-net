@@ -18,8 +18,25 @@ Use the `Desktop/exercise-pcaps/https/Exercise.pcap` file.
 
 **What is the frame number of the `Client Hello` message sent to `accounts.google.com`?**
 
+| ![Hello](../../_static/images/shark-26.png)
+|:--:|
+| `16` |
+
 **Decrypt the traffic with the `KeysLogFile.txt` file. What is the number of HTTP2 packets?**
+
+Edit -> Preferences -> Protocols -> TLS -> Browse for `(Pre)-Master-Secret log filename` -> `KeysLogFile.txt`
+
+| ![http2](../../_static/images/shark-27.png)
+|:--:|
+| `115` |
 
 **Go to `Frame 322`. What is the authority header of the HTTP2 packet? (Enter the address in defanged format.)**
 
+| ![authority header](../../_static/images/shark-28.png)
+|:--:|
+| `safebrowsing[.]googleapis[.]com` |
+
 **Investigate the decrypted packets and find the flag! What is the flag?**
+
+File -> Export Objects -> HTTP -> Save txt file to Desktop -> Open file.
+
