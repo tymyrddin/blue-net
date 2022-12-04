@@ -1,4 +1,4 @@
-name: Publish blue-net using Sphinx
+name: Publish blue-nta using Sphinx
 
 on:
   push:

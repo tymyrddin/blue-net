@@ -1,7 +1,8 @@
-# Network security and traffic analysis
+# Network traffic analysis
 
-![Publish blue-net using Sphinx](https://github.com/tymyrddin/blue-net/workflows/Publish%20blue-net%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/blue-net/
+![Publish blue-nta using Sphinx](https://github.com/tymyrddin/blue-nta/workflows/Publish%20blue-nta%20using%20Sphinx/badge.svg?branch=main)
+
+Deployed: https://tymyrddin.github.io/blue-nta/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +27,7 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/blue-net/issues)
+[Open an issue here](https://github.com/tymyrddin/blue-nta/issues)
 
 ## Mind
 

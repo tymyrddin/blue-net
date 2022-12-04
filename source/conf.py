@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Network security and traffic analysis'
+project = 'Network traffic analysis'
 copyright = '2022, Ty Myrddin'
 author = 'Ty Myrddin'
 release = '0.1'
@@ -52,7 +52,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "Network security and traffic analysis"
+html_title = "Network traffic analysis"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 

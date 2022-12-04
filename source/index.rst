@@ -1,7 +1,22 @@
-Network security and traffic analysis
+Network traffic analysis
 =================================================================
 
 Spot and probe network anomalies using industry tools and techniques.
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Wireshark
+
+   docs/wireshark/README.md
+   docs/wireshark/nmap.md
+   docs/wireshark/on-path.md
+   docs/wireshark/hosts.md
+   docs/wireshark/tunnels.md
+   docs/wireshark/clear-text.md
+   docs/wireshark/encrypted.md
+   docs/wireshark/creds.md
+   docs/wireshark/rules.md
 
 .. toctree::
    :maxdepth: 1
@@ -51,21 +66,6 @@ Spot and probe network anomalies using industry tools and techniques.
    docs/brim/use-cases.md
    docs/brim/malware.md
    docs/brim/mining.md
-
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: Wireshark
-
-   docs/wireshark/README.md
-   docs/wireshark/nmap.md
-   docs/wireshark/on-path.md
-   docs/wireshark/hosts.md
-   docs/wireshark/tunnels.md
-   docs/wireshark/clear-text.md
-   docs/wireshark/encrypted.md
-   docs/wireshark/creds.md
-   docs/wireshark/rules.md
 
 .. toctree::
    :caption: Links
