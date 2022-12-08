@@ -70,4 +70,4 @@ Spot and probe network anomalies using industry tools and techniques.
 .. toctree::
    :caption: Links
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>

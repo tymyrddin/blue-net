@@ -1,9 +1,5 @@
 # Network traffic analysis
 
-![Publish blue-nta using Sphinx](https://github.com/tymyrddin/blue-nta/workflows/Publish%20blue-nta%20using%20Sphinx/badge.svg?branch=main)
-
-Deployed: https://tymyrddin.github.io/blue-nta/
-
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
