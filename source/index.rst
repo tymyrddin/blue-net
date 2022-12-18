@@ -3,6 +3,13 @@ Network traffic analysis
 
 Spot and probe network anomalies using industry tools and techniques.
 
+----
+
+.. image:: _static/images/the-practice-of-network-security-monitoring.png
+  :alt: Useful books
+
+----
+
 .. toctree::
    :maxdepth: 1
    :includehidden:
