@@ -1,12 +1,7 @@
-Network traffic analysis
+Network traffic analysis (NTA)
 =================================================================
 
 Spot and probe network anomalies using industry tools and techniques.
-
-----
-
-.. image:: _static/images/the-practice-of-network-security-monitoring.png
-  :alt: Useful books
 
 ----
 
@@ -74,7 +69,7 @@ Spot and probe network anomalies using industry tools and techniques.
    docs/brim/malware.md
    docs/brim/mining.md
 
-.. toctree::
-   :caption: Links
+----
 
-   Blue Team <https://blue.tymyrddin.dev/>
+.. image:: _static/images/the-practice-of-network-security-monitoring.png
+  :alt: Useful books
