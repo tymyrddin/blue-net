@@ -8,6 +8,18 @@ Spot and probe network anomalies using industry tools and techniques.
 .. toctree::
    :maxdepth: 1
    :includehidden:
+   :caption: Testlab
+
+   Network traffic analysis tools <https://blue.tymyrddin.dev/projects/testlab/en/latest/docs/dfir/README.html>
+
+----
+
+TryHackMe rooms
+-------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
    :caption: Wireshark
 
    docs/wireshark/README.md
@@ -39,7 +51,6 @@ Spot and probe network anomalies using industry tools and techniques.
 
    docs/miner/README.md
    docs/miner/forensics.md
-   docs/miner/miner.md
 
 .. toctree::
    :maxdepth: 1
@@ -48,7 +59,6 @@ Spot and probe network anomalies using industry tools and techniques.
 
    docs/zeek/README.md
    docs/zeek/monitoring.md
-   docs/zeek/zeek.md
    docs/zeek/signatures.md
    docs/zeek/scripts.md
    docs/zeek/and.md
@@ -64,12 +74,11 @@ Spot and probe network anomalies using industry tools and techniques.
    :caption: Brim
 
    docs/brim/README.md
-   docs/brim/brim.md
    docs/brim/use-cases.md
    docs/brim/malware.md
    docs/brim/mining.md
 
 ----
 
-.. image:: _static/images/the-practice-of-network-security-monitoring.png
+.. image:: _static/images/books.png
   :alt: Useful books
