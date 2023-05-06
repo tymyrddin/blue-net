@@ -3,6 +3,9 @@ Network traffic analysis (NTA)
 
 Spot and probe network anomalies using industry tools and techniques.
 
+.. image:: _static/images/in-progress.png
+  :alt: Forever in progress ...
+
 ----
 
 .. toctree::
