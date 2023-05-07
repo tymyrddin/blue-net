@@ -83,5 +83,29 @@ TryHackMe rooms
 
 ----
 
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Root-me Network challenges
+
+   docs/root-me/README.md
+   docs/root-me/ftp-authentication.md
+   docs/root-me/telnet-authentication.md
+   docs/root-me/ethernet-frame.md
+   docs/root-me/twitter-authentication.md
+   docs/root-me/bl-unknown-file.md
+   docs/root-me/cisco-password.md
+   docs/root-me/zone-transfer.md
+   docs/root-me/ip-ttl.md
+   docs/root-me/ldap-null.md
+   docs/root-me/pop-apop.md
+   docs/root-me/sip-authentication.md
+   docs/root-me/ethernet-patched.md
+   docs/root-me/global-mobile.md
+   docs/root-me/ssl.md
+
+----
+
 .. image:: _static/images/books.png
   :alt: Useful books
