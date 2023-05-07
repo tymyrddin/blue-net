@@ -87,7 +87,7 @@ TryHackMe rooms
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Root-me Network challenges
+   :caption: Root-me challenges
 
    docs/root-me/README.md
    docs/root-me/ftp-authentication.md
