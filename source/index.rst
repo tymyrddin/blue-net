@@ -13,7 +13,7 @@ Spot and probe network anomalies using industry tools and techniques.
    :includehidden:
    :caption: Testlab
 
-   Network traffic analysis tools <https://blue.tymyrddin.dev/projects/testlab/en/latest/docs/dfir/README.html>
+   Network traffic analysis tools <https://testlab.tymyrddin.dev/docs/dfir/README>
 
 ----
 
