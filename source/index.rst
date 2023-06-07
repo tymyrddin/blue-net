@@ -50,14 +50,6 @@ TryHackMe rooms
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: NetworkMiner
-
-   docs/miner/README.md
-   docs/miner/forensics.md
-
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
    :caption: Zeek
 
    docs/zeek/README.md
