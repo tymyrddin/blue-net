@@ -99,5 +99,41 @@ TryHackMe rooms
 
 ----
 
-.. image:: _static/images/books.png
-  :alt: Useful books
+Books
+---------------------------
+
+.. grid:: 3
+    :gutter: 1
+
+    .. grid-item-card::
+        :link: https://nostarch.com/nsm
+
+        .. image:: _static/images/bookcovers/practice-network-security-monitoring.png
+
+    .. grid-item-card::
+        :link: https://www.packtpub.com/product/packet-analysis-with-wireshark/9781785887819
+
+        .. image:: _static/images/bookcovers/packet-analysis-wireshark.png
+
+    .. grid-item-card::
+        :link: https://www.packtpub.com/product/network-protocols-for-security-professionals/9781789953480
+
+        .. image:: _static/images/bookcovers/network-protocols-security-pros.png
+
+.. grid:: 3
+    :gutter: 1
+
+    .. grid-item-card::
+        :link: https://www.packtpub.com/product/nmap-network-exploration-and-security-auditing-cookbook-third-edition/9781838649357
+
+        .. image:: _static/images/bookcovers/nmap-network-exploration.png
+
+    .. grid-item-card::
+        :link: https://nostarch.com/cybersecurity-small-networks
+
+        .. image:: _static/images/bookcovers/cybersecurity-small-networks.png
+
+    .. grid-item-card::
+        :link: https://www.wiley.com/en-us/Artificial+Intelligence+and+Data+Mining+Approaches+in+Security+Frameworks-p-9781119760436
+
+        .. image:: _static/images/bookcovers/ai-security-frameworks.png
