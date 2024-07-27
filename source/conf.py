@@ -81,7 +81,6 @@ intersphinx_mapping = {
 }
 myst_url_schemes = ["http", "https", ]
 
-
 myst_enable_extensions = [
     "amsmath",
     "dollarmath",
